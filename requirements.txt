@@ -1,0 +1,32 @@
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+
+# NLP / Transformers
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=1.1.0
+datasets>=2.14.0
+tokenizers>=0.13.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Econometrics
+statsmodels>=0.14.0
+linearmodels>=5.3
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# String matching
+rapidfuzz>=3.0.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Scraper (already installed via koyfin_scr)
+# selenium>=4.15.0
+# webdriver-manager>=4.0.0

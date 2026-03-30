@@ -1,0 +1,294 @@
+Title: Merck & Co., Inc., Q1 2025 Earnings Call, Apr 24, 2025
+Event Type: Earnings Calls
+Event Date: 2025-04-24T13:00:00Z
+Sector: Health Care
+Industry: Pharmaceuticals
+Source: Koyfin (API)
+Transcript ID: 3424229
+Scraped: 2026-03-24T10:29:27.174351
+================================================================================
+
+Operator  [Operator]
+Thank you for standing by. Welcome to the Merck & Co., Inc., Rahway, New Jersey U.S.A. Quarter 1 Sales and Earnings Conference Call. [Operator Instructions] This call is being recorded. If you have any objections, you may disconnect at this time.
+I would like to turn the call to Mr. Dannenbaum, Senior Vice President, Investor Relations. Sir, you may begin.
+
+
+Peter Dannenbaum  [Executives]
+Thank you, Dustin, and good morning, everyone. Welcome to the First Quarter 2025 Conference Call for Merck & Co., Inc., Rahway, New Jersey U.S.A. Speaking on today's call will be Rob Davis, Chairman and Chief Executive Officer; Caroline Litchfield, Chief Financial Officer; and Dr. Dean Li, President of Research Labs.
+Before we get started, I'd like to point out that we have items in our GAAP results such as acquisition-related charges, restructuring costs and certain other items that we have excluded from our non-GAAP results. There is a reconciliation in our press release.
+I will also remind you that some of the statements that we make today may be considered forward-looking statements within the meaning of the safe harbor provision of the U.S. Private Securities Litigation Reform Act of 1995. Such statements are made based on the current beliefs of our company's management and are subject to significant risks and uncertainties. If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements.
+Our SEC filings, including Item 1A in the 2024 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning. Merck & Co., Inc., Rahway, New Jersey U.S.A. undertakes no obligation to publicly update any forward-looking statements. During today's call, a slide presentation will accompany our speakers' prepared remarks. These slides, along with the earnings release, today's prepared remarks and our SEC filings are all posted to the Investor Relations section of our company's website.
+With that, I'd like to turn the call over to Rob.
+
+
+Robert Davis  [Executives]
+Thank you, Peter. Good morning and thank you for joining today's call. Our company made strong progress to start the year with increasing contributions from our newer commercialized medicines and vaccines and continued advancement of our pipeline. We're working with focus and urgency to both realize the full potential of our near-term opportunities and to rapidly progress the next wave of innovation that will positively impact the lives of the patients we serve and drive future value creation for all of our stakeholders.
+In what is a dynamic global environment, we continue to work with regulators and policymakers around the world to tackle some of the biggest health challenges and ensure patient and customer access to our life-saving and life-improving medicines and vaccines.
+Over the last few years, we've been evolving our supply-chain strategy in an effort to better balance our manufacturing footprint, which aligns well with the new administration's efforts to regrow the U.S. manufacturing base. This can be seen by our efforts beginning with the passing of the Tax Cut and Jobs Act and accelerated since the pandemic. Of note, since 2018, we've invested $12 billion in U.S. manufacturing, and we've committed to an additional $9 billion-plus for projects through 2028. Our investments are leading to more of our products for U.S. patients being manufactured in the U.S. as well as more opportunities for export.
+Turning to our first quarter results. Our performance was in line with our expectations with revenue of $15.5 billion, reflecting strength in Oncology, Animal Health and increasingly meaningful contributions from the continued strong launches of WINREVAIR and CAPVAXIVE. As we look forward, we remain confident in our outlook for improved growth in the second half of the year.
+Considering the current environment, we are maintaining our full-year revenue and EPS guidance, excluding business development charges, which Caroline will speak to in more detail. The benefit from improved foreign exchange is offset in part by approximately $200 million of expected cost from tariffs implemented to date primarily between the U.S. and China and, to a lesser degree, Canada and Mexico.
+With respect to potential additional tariffs by the U.S., specifically on pharmaceuticals, our global supply chain and current inventory levels put us in a good position to navigate potential near-term impacts. And our ongoing efforts to locate more manufacturing in the U.S. for U.S. supply, including for the majority of our upcoming new products, will help us manage over the medium and long term. 
+As I look at how we've started 2025, I'm proud of the continued advancement of our research efforts. Recently, we presented important Phase III data for WINREVAIR in additional patient populations, supporting the strong potential for this product to improve the lives of more people living with pulmonary arterial hypertension. In addition, our HIV pipeline is now coming into sharper focus with data presentations from 2 Phase III trials of islatravir-based regimens. And new clinical trial starts and regulatory submissions in oncology reinforce our belief that we are well positioned for long-term leadership, with the promise of helping even more patients with cancer.
+The success of biopharmaceutical innovation on the scale we're driving is not measured in quarters, but rather in years. And we're seeing compelling progress on this front.
+Since 2021, we've nearly tripled our late-phase pipeline through both the advancement of internally discovered compounds as well as the completion of numerous important business development transactions across multiple therapeutic areas of great unmet need, including oncology, cardiometabolic, ophthalmology and immunology. Together, our efforts have resulted in an expanded late-phase pipeline comprising programs having potential commercial opportunity of over $50 billion by the mid-2030s.
+WINREVAIR and CAPVAXIVE represent the initial launches from this robust pipeline of 20 promising potential new growth drivers we expect to come to the market over the next few years, almost all of which have blockbuster potential. Looking ahead, we have a rich slate of data readouts, presentations, filings and additional approvals. Our pipeline includes some of the world's most scientifically advanced modalities, and Dean and our research colleagues are advancing several molecules that have foundational multi-indication potential in areas of significant unmet need.
+We've also deepened and extended our commitment to early research and development, and over the next few years, expect many of these programs to advance to Phase II and to become visible to you.
+Thanks to the incredible efforts of our dedicated team and the strong progress we are achieving, we believe that we're well positioned to successfully navigate through the KEYTRUDA LOE period.
+And our work is not finished. Science and value-driven business development remains a top priority, and we continue to assess opportunities with urgency and an eye toward driving near- and long-term growth and value creation.
+In summary, our results reflect the continued demand for breakthrough therapies and novel solutions that can address global health challenges. We're leveraging our scientific leadership to deliver the next wave of innovation that can save and improve lives around the world. Our commercial performance today continues to enable the advancement of our pipeline, and in turn, create long-term value for patients, customers and shareholders.
+We remain confident in our strategic direction, our commitment to research and development as the source for sustainable value creation and our enduring promise to positively impact patients.
+With that, I'll turn the call over to Caroline.
+
+
+Caroline Litchfield  [Executives]
+Thank you, Rob. Good morning. As Rob noted, first quarter performance was in line with our expectations. The fundamentals of our business remain healthy, fueled by robust global demand for our innovative portfolio. We are confident in our ability to deliver on the promise of today, while we make strategic investments to enable the innovations of tomorrow, leveraging leading-edge science to save and improve lives around the world.
+Now turning to our first quarter results. Total company revenues were $15.5 billion, a decrease of 2% or an increase of 1%, excluding the impact of foreign exchange. As expected, results were impacted by a decline in sales of GARDASIL in China of approximately $1.1 billion, reducing growth, excluding foreign exchange, by 7 percentage points. Excluding these sales and the impact from foreign exchange,  global growth was 8%, primarily driven by new products, WINREVAIR and CAPVAXIVE, as well as strength
+in oncology and Animal Health. 
+The following revenue comments will be on an ex-exchange basis. In Oncology, sales of KEYTRUDA grew 6% to $7.2 billion. Global growth was driven by increased uptake from earlier-stage cancers and robust demand from metastatic indications. In the earlier-stage setting, growth was driven by increased utilization in resectable triple-negative breast cancer, renal cell carcinoma and non-small cell lung cancer. In metastatic disease, we saw increased use of KEYTRUDA in combination with Padcev in first-line, locally advanced urothelial cancer as well as KEYTRUDA in combination with chemotherapy in first-line endometrial cancer. In the U.S., as previously communicated, growth was negatively impacted by approximately $250 million due to the timing of wholesaler purchases.
+Our broad oncology portfolio achieved strong growth driven by WELIREG with sales increasing 63% to $137 million due to increased use in certain patients with previously treated advanced renal cell carcinoma in the U.S. WELIREG is now the market leader in the treatment of patients with advanced renal cell carcinoma following prior therapies.
+In Vaccines, GARDASIL sales were $1.3 billion, a decrease of 40%, driven by China where we see elevated channel inventories and continued soft demand. In the rest of the world, growth was 16%. In the U.S., sales benefited from price and demand. Outside the U.S. and China, growth was driven by higher overall demand, including from the catch-up cohort in Japan.
+In pneumococcal, CAPVAXIVE sales were $107 million, driven primarily by demand from the retail pharmacy segment. We have made great progress in the early stages of this launch and are well positioned to help protect adults from invasive pneumococcal disease.
+VAXNEUVANCE sales increased 7%, as growth from launches in international markets was partially offset by competitive pressures in the U.S.
+In cardiovascular, the strong momentum of the ongoing launch of WINREVAIR continues with global sales of $280 million. The launch continues to perform in line with our high expectations, and we remain excited about the significant benefit WINREVAIR is providing for patients.
+In the U.S., more than 1,400 new patients received a prescription during the quarter. We are continuing to see a steady increase in the percentage of new prescriptions for patients whose background PAH therapies do not include a prostacyclin.
+Outside the U.S., we continue to progress with launches and reimbursement.
+Overall, we are very pleased with the uptake of WINREVAIR and look forward to positively impacting the lives of more patients with pulmonary arterial hypertension. The strength of the additional data from the clinical development program, which Dean will speak to in a moment, provides further confidence to physicians and patients and supports our belief in WINREVAIR's significant potential.
+Our Animal Health business delivered another quarter of robust growth with sales increasing 10%. Livestock growth reflects higher demand across all species as well as the benefit from timing of sales in ruminants and sales from the aqua portfolio acquired from Elanco. Companion animal sales growth reflects price.
+I will now walk you through the remainder of our P&L, and my comments will be on a non-GAAP basis. Gross margin was 82.2%, an increase of 1 percentage point driven by favorable product mix. Operating expenses decreased to $6.1 billion. There were no significant business development expenses in the quarter compared with a $656 million charge a year ago. Excluding this charge, operating expenses grew 6%, reflecting disciplined investments in support of our robust early- and late-phase pipeline and key growth drivers. Other expense was $75 million. Our tax rate of 14.2% benefited from certain discrete items. Taken together, earnings per share were $2.22.
+Now turning to our 2025 non-GAAP guidance. As Rob noted, we are maintaining our full year revenue guidance of between $64.1 billion and $65.6 billion. This range represents growth of 1% to 3%, excluding a negative impact from foreign exchange of approximately 1% using mid-April rates.
+Our gross margin assumption is now approximately 82%. This includes approximately $200 million in costs related to the tariffs implemented to date.
+Operating expenses are now assumed to be between $25.6 billion and $26.6 billion. This range now includes a $200 million payment related to the license agreement with Hengrui Pharma, which is expected to close in the second quarter. It also includes the $300 million tech transfer payment related to LaNova, which remains in our guidance but has not yet occurred. As a reminder, our guidance does not assume additional significant potential business development transactions.
+Other expense is expected to be between $300 million and $400 million.
+We assume a full year tax rate between 15.5% and 16.5%.
+We assume approximately 2.51 billion shares outstanding.
+Taken together, we expect EPS of $8.82 to $8.97. This range includes a negative impact from foreign exchange of more than $0.20 using mid-April rates.
+Recall our prior guidance range was $8.88 to $9.03. If not for the onetime charge of $200 million related to Hengrui or $0.06 per share, our guidance range is unchanged.
+As you consider your models, there are a few items to keep in mind. Following the successful HPV catch-up vaccination program in Japan, we expect uptake to moderate as future sales will predominantly reflect the primary age cohort. As a result, global GARDASIL growth, excluding China, while still strong, is anticipated to slow going forward.
+For KEYTRUDA, the timing of wholesaler purchasing in the U.S. negatively impacted sales by approximately $250 million in the first quarter and is expected to positively impact sales by roughly the same amount in the third quarter.
+As a reminder, we lowered the list prices for the JANUVIA family of products in the U.S. at the beginning of 2025. The lower list prices reduce the rebate amount our company pays to Medicaid and as a result, we expect higher net sales for these products in 2025. First quarter sales of the JANUVIA family of products in the U.S. also benefited by more than $100 million from favorable one-time true ups.
+Now turning to capital allocation, where our strategy remains unchanged. We will continue to prioritize investments in our business to drive near- and long-term growth and returns for our shareholders.
+Our company is rapidly moving toward a future with a more diversified portfolio of growth drivers. As we continue to assess our business, we are likely to take actions that will seek to maximize the potential of these opportunities by investing with discipline, while transforming our business to drive continuous productivity across the company. We intend to communicate more about these efforts later this year.
+We remain committed to our dividend, with the goal of increasing it over time. Business development remains an important priority. We continue to actively evaluate opportunities to execute additional science-driven, value-creating transactions.
+We increased our share repurchases in the quarter to approximately $1.2 billion, similar to the full year amount in 2024. We expect the pace of repurchase to continue at this level given our strong balance sheet. Our top priority, however, remains to invest fully behind our growth drivers and pipeline as well as business development.
+To conclude, we are confident in the outlook for our business, driven by our strong portfolio and exceptional pipeline. With investment in innovation and our ongoing focus on execution, we are well positioned to deliver value to patients, customers and shareholders now and well into the future.
+With that, I'd now like to turn the call over to Dean.
+
+
+Dean Li  [Executives]
+Thank you, Caroline. Good morning. Progress continued in the first quarter with a steady cadence of positive clinical and regulatory milestones. Today, I will provide updates from programs in cardiometabolic disease, HIV, vaccines and will close with oncology.
+Starting with cardiometabolic disease. Since its first approval just over a year ago, WINREVAIR, the first and only activin signaling inhibitor for the treatment of pulmonary arterial hypertension, has continued to generate clear evidence of benefit for a broad spectrum of patients with PAH. Last month, detailed results from the Phase III ZENITH trial evaluating high-risk patients with PAH were presented at the American College of Cardiology's ACC '25 Conference. The findings showed an important 76% risk reduction in the composite of all-cause death, lung transplantation and PAH hospitalization with the Kaplan-Meier curve illustrating an early and sustained separation as early as 4 to 5 weeks after initiation of WINREVAIR. Results were published simultaneously in the New England Journal of Medicine.
+ZENITH is the first positive trial in PAH with a primary endpoint comprised entirely of major outcome measures and the first to be stopped early for overwhelming efficacy. The significant reduction in risk of major morbidity and mortality events reinforces WINREVAIR's efficacy. The safety profile in ZENITH was generally consistent with that observed in previous studies.
+As a reminder, prompted by the early stoppage of the ZENITH study and a review of the totality of data from the WINREVAIR clinical program to date, the External Steering Committee determined that the Phase III HYPERION study had lost clinical equipoise and should also be stopped early. All participants have now been given the option to receive WINREVAIR. We anticipate sharing data from the HYPERION study later this year.
+The clinical benefit and statistically significant improvement observed across a range of patients receiving WINREVAIR in the STELLAR and ZENITH study provide strong evidence for its potential to be practice-changing and to alter the trajectory for patients with this devastating disease.
+The clinical program also includes the ongoing long-term extension study, SOTERIA, as well as the Phase II LIGHTRAY study, which is being conducted to support the development of an auto-injector option for patients. In addition, the Phase II CADENCE study exploring the potential in pulmonary hypertension due to left heart disease, a specific segment within WHO Group II, has completed recruitment and is on track for completion later this year.
+We continue to bolster our portfolio of candidates targeting cardiometabolic disease. In March, we announced an exclusive license agreement with Hengrui Pharma for HRS-5346, an investigational oral small molecule lipoprotein A or Lp(a) formation inhibitor. Elevated levels of Lp(a) in the blood are an inherited atherosclerotic cardiovascular disease risk factor for which there are currently no approved treatment options.
+Hengrui recently initiated a Phase II clinical trial for HRS-5346 in China. We are planning a robust global clinical development program that expands and complements our broader cardiometabolic pipeline.
+Next to vaccines. We continue to secure regulatory approvals globally for CAPVAXIVE. More recently, the European Commission granted approvals for active immunization for the prevention of invasive disease and pneumonia caused by streptococcus pneumoniae in adults. This is based on safety and immunogenicity data from multiple pivotal studies in the program and is the fourth approval for CAPVAXIVE, building on prior approvals in the U.S., Canada and Australia.
+GARDASIL 9 was recently approved by the National Medical Products Administration of China to help prevent certain HPV-related cancers and diseases in males 16 to 26 years old, making it the first 9-valent HPV vaccine approved for certain males and females in China.
+Turning to HIV. Detailed results from 2 pivotal Phase III trials evaluating adults with virologically suppressed HIV-1 who switched to the investigational once-daily oral fixed-dose combination of doravirine and islatravir, an investigational nucleoside reverse transcriptase translocation inhibitor, were presented at the Conference on Retrovirus and Opportunistic Infections in March. In both trials, at week 48, doravirine and islatravir met the primary efficacy success criteria for noninferiority to comparator antiretroviral therapies and primary safety objectives. The combinations of doravirine and islatravir is the first complete 2-drug regimen without an integrase strand transfer inhibitor to demonstrate comparable efficacy and safety to the 3-drug InSTI-based regimen, Biktarvy, in a Phase III trial. We plan to submit applications for marketing authorization to regulatory agencies by midyear. 
+These data and additional programs evaluating longer-acting regimens for treatment and pre-exposure prophylaxis underscore our ongoing commitment to find new options that address the evolving needs of people at risk of and living with HIV.
+Moving to oncology. Last month, at the European Lung Cancer Congress, we announced detailed findings from a pivotal Phase III trial, evaluating a 6-week dosing regimen of the investigational subcutaneous fixed-dose combination of pembrolizumab and berahyaluronidase alfa with chemotherapy versus intravenous KEYTRUDA with chemotherapy. The study met its dual primary endpoints, demonstrating noninferior pharmacokinetics for subcutaneous pembrolizumab versus intravenous KEYTRUDA. Consistent results were also reported for efficacy and safety endpoints across treatment arms. The median time for administration of subcutaneous pembrolizumab given every 6 weeks was approximately 2 minutes, a meaningful reduction compared to the time needed to administer KEYTRUDA as an IV infusion.
+Of note, at the American Association for Cancer Research meeting next week, data from another study evaluating a 3-week dosing regimen will be presented.
+The FDA has set a PDUFA date of September 23, and the European Medicines Agency is reviewing the application. We are seeking approval for both a 6 weeks and a 3-week dosing option. If approved, subcutaneous pembrolizumab would provide an important option for health care systems and patients, most notably, for those in earlier-stage settings where KEYTRUDA continues to have an unparalleled breadth of approvals and a significant impact for patients.
+The FDA granted priority review for KEYTRUDA as part of a perioperative treatment regimen for patients newly diagnosed with Stage III or IVa resectable, locally advanced head and neck squamous cell carcinoma based on the KEYNOTE-689 study. That PDUFA date is June 23. As a reminder, this is the first trial in 20 years for patients with resected, locally advanced head and neck squamous cell carcinoma and the first Phase III trial to show a statistically significant event-free survival benefit of neoadjuvant plus adjuvant therapy for newly diagnosed patients in this setting. Earlier intervention has the potential to move outcomes and reduce the burden of disease in this patient population.
+Results will be submitted to regulatory agencies and, if approved, this will mark the 10th indication of a KEYTRUDA-based regimen for the treatment of an earlier-stage cancer. Detailed findings will be presented at the American Association for Cancer Research meeting next week, where it may be important to scrutinize the Kaplan-Meier plot for the divergence of the curves as a sign of event-free survival benefit.
+Based on the LITESPARK-004 and LITESPARK-005 trials, we received the first conditional European Commission approval for WELIREG for the treatment of adults with von Hippel-Lindau disease who require therapy for associated, localized renal cell carcinoma, central nervous system hemangioblastomas or pancreatic neuroendocrine tumors; and advanced clear cell RCC that progressed following 2 or more lines of therapy that included a PD-1 or a PD-L1 inhibitor and at least 2 vascular endothelial growth factor targeted therapies. Please mark your calendars for the evening of Monday, June 2, for an investor event at the 2025 ASCO Annual Meeting in Chicago, where we will provide an update on pipeline progress and the latest on our oncology strategy.
+Finally, we have a number of near-term milestones to look out for this year, including, in oncology, upcoming PDUFA dates for KEYNOTE-689 in earlier-stage head and neck squamous cell carcinoma in June; subcutaneous pembrolizumab in September. In RSV, the upcoming PDUFA for clesrovimab in June. In the cardiometabolic space, anticipated results from 3 Phase III registration-enabling studies evaluating our oral PCSK9 inhibitor candidate, enlicitide, for the treatment of hypercholesterolemia; and the scheduled Fall primary completion date of the Phase II CADENCE study, evaluating WINREVAIR in pulmonary hypertension due to left heart disease; as well as the final readout from the Phase III HYPERION study. Lastly, in HIV, filing for our doravirine and islatravir regimen; and results from the Phase IIa trial for MK-8527, a novel NRTTI candidate, as a potentially important once-monthly oral option for pre-exposure prophylaxis.
+In closing, we continue to advance our pipeline and execute on our strategy with speed and rigor. I look forward to providing further updates on our progress.
+And now I turn the call back to Peter.
+
+
+Peter Dannenbaum  [Executives]
+Thanks, Dean. Dustin, we're ready for Q&A. [Operator Instructions]
+
+
+Operator  [Operator]
+[Operator Instructions] Our first question is from Geoff Meacham from Citi.
+
+
+Geoffrey Meacham  [Analysts]
+I guess I'll kick it off with the tariff question. So Rob, I recognize it's hard to talk specifics. But maybe at a high level, can you talk about Merck's mitigating strategies as an offset, whether it's a new CapEx cycle, whether it's changing the elements of the supply chain or even raising U.S. price?
+
+
+Robert Davis  [Executives]
+Yes. No, Geoff, I appreciate the question. And obviously, Caroline spoke to the tariffs we've included in our earnings so far, the $200 million. And just to be clear, that relates to the existing tariffs that have been announced largely between China and the U.S. and to a lesser extent, Canada and Mexico. I think you're really referring to the potential for further sector-specific tariffs that could come in what we're doing. And in that regard, we've been very focused, and I tried to highlight this in the script, we've actually had started to change and rebalance our supply chain strategy, going back -- actually beginning with the Tax Cut and Jobs Act, where we started moving more towards being able to have U.S. for U.S., Europe for Europe and Asia for Asia. And we've been in the process of doing that. That was a big part of where we announced that we've spent $12 billion since that time to date. And then we expect to spend an additional $9-plus billion. And I expect, frankly, that number is going to grow going forward.
+So we have already been in the process of changing our supply chain. But what we've done specifically in the near term, we have, I think, done a good job of managing our inventory. So as you look at 2025, we're well positioned with inventory to be able to mitigate anything we could see in the short term. And then in the medium to long term, we've already started to identify where we can either reposition our own manufacturing, so change the priorities of existing plants, bring on external manufacturing, in some cases, to bridge gaps; and then finally, to build internal manufacturing long term so that we have that in our base going forward.
+So really, as I look at it, short term, I think we're in a good shape. Medium and long term, we're taking the steps to position ourselves. And that really is our main efforts. We are not using and do not really see price as the lever for tariffs just given there's always limitations in what you can do there. So for us, it's more about how do we optimize our supply chain. But again, a lot of what we're doing now, frankly, we were already underway in. So in many ways, we are aligned with what the administration is wanting to do and feel that we are in a position to be able to do that quite effectively.
+
+
+Operator  [Operator]
+Our next question is from Tim Anderson from Bank of America.
+
+
+Timothy Anderson  [Analysts]
+So I want to ask about long-term guidance, Rob. It was something I asked last quarter. I wanted to ask again. So lots of concerns about KEYTRUDA going into IRA facing patent expiry at the end of '28. And in my view, unless you guys kind of give clarity on what that means downstream at '28, my fear is going to continue to haunt the stock that now trades at a single-digit PE multiple, which is a level that Merck shares have not been other than once, in the last 25 years, in '09 after you buy sharing plow. So last quarter, when I asked that, you seem to imply you might give it at some point. I'm wondering where you are on that line of thinking as the stock continues to kind of drift lower.
+
+
+Robert Davis  [Executives]
+Yes. So Tim, thanks for the question. What we tried to do at the JPMorgan conference, and I think everyone is aware, is really highlight the confidence we have in our long term by focusing on the strength of the pipeline. I commented in our script that we have over 20 new products that we see coming over the next few years, almost all of which have blockbuster potential.
+And if you look at the totality of those as you look forward, this really makes up the bulk of what is the $50 billion-plus potential we see out in the early to mid-2030s. So I think that gives people a sense of what we're doing. Whether we go beyond that to give specific line-by-line guidance, as of right now, we do not have a plan to do that, but we are continuing to evaluate it. And we'll take a sense of where the majority of investors have a view on that. Many people, frankly, disagree with you that we've heard from.
+
+
+Operator  [Operator]
+Next question is from Luisa Hector from Berenberg.
+
+
+Luisa Hector  [Analysts]
+Perhaps you could comment on some of the changes we're seeing within the FDA and the HHS, particularly with reference to vaccines and the outlook there.
+
+
+Dean Li  [Executives]
+Yes. This is Dean. Thanks for the question. In specific relationship to the FDA, I would just say we've listed programs with imminent PDUFA dates like clesrovimab, subcu KEYNOTE-689. And all of our communications have suggested that they're all on track. There's actually very active dialogue with FDA on programs with near-term filings, including enlicitide and also, for example, WINREVAIR as we speak about potential label changes.
+What we can't comment is, is the mid- to long-term sort of impact of the many FDA personnel transitions. And we'll just have to see and be very watchful for that. But in the imminent PDUFA dates and in the active dialogues that we've had on programs that we've been talking to them for the last year, 1.5 years, we haven't seen any shift in time lines.
+
+
+Operator  [Operator]
+Next question is from Vamil Divan from Guggenheim Securities.
+
+
+Vamil Divan  [Analysts]
+Maybe again just more on macros or big-picture questions here. I have 2, if I could. So one, you mentioned business development is a top priority. I'm wondering if you could just sort of comment on the sort of environment for business development now given all the macro volatility and the unknowns on tariffs, et cetera, just Merck's willingness to do a larger sort of deal or maybe a more meaningful size bolt-on deal? And also from the sort of seller side, is there willingness to sell? So any insight there would be appreciated.
+And the second topic that comes up a lot now is for the potential for international reference pricing of some sort, where U.S. prices may get tied in some way to ex-U.S. prices. Obviously, a lot of unknowns there, too. But just curious if you can comment on your perspective on that or any insights you might have on that potentially becoming a reality.
+
+
+Robert Davis  [Executives]
+Yes. No, thanks, Vamil, for the questions. On the first question, the macro environment and what does it mean from a business development perspective, maybe just to provide context. To be clear, our focus on business development is unchanged. Our desire and belief that we need to continue to identify new science-based opportunities to continue to build on the pipeline is unchanged. And so our strategy continues.
+As we look at the environment, I mean, it clearly the -- what's happening does make it more complex to get things done because the uncertainty everyone is wrestling with. And we are doing everything we can to make sure we reflect that as we think about value and what we are willing to pay in that environment. But it's not stopping us from being aggressive and wanting to move forward and do deals.
+As it relates to the sellers, I would say that we continue to see, at least in the conversations we've had, a little bit of a disconnect between what is the reality of the market that the sellers face and what is the expectation for value that they have. I don't think they have fully yet aligned to the realities of where we are today. And so we continue to move forward, but that is kind of the environment we seek and -- but I am confident that you are going to see us get some stuff done as we move forward because we've got things in the queue that we're looking for.
+And then as it relates to the most favored nations question, I don't want to speculate on what the administration might do specifically. But I would say, generally, we recognize -- I recognize and I think the industry recognizes that the price differential that exists between the United States and the rest of the world on -- for our innovative medicines needs to be addressed. We are open and willing to work with the administration to do that. And I think it's important that I would highlight a few areas that we see as kind of the focal areas.
+First and foremost, we, as an industry and Merck, continue to believe PBM reform would be one important step. If you look at the fact that over $0.50 of every dollar goes to somewhere in the middle, so the discoverers and manufacturers only get less than half of every dollar. If we could find a way to bring more of that back to the patient at the pharmacy counter, that could meaningfully reduce prices in the U.S. That would be an important step to lessen the differential.
+And then secondly, and I agree with there was -- I think you probably saw the recent commentary from some of my peers that I agree with the fact that we have to continue to encourage foreign governments to understand that they need to give fair value for the innovation we bring and that they'd give access to their patients so that we can bring the medicines to them and it's at prices that reward us for the risk and the innovation that we have. And I think that that's also an important element. We are spending time individually as a company and along with our other industry peers, promoting that point everywhere we can around the world and we will continue to do that.
+And then as I mentioned, lastly, we are very open to working with the administration to find solutions to address this. But the important thing is we need to make sure we protect access in the United States and we protect the innovation engine we have and the jobs it creates and the strength of this industry as an important contributor to the United States. We don't want to lose the leadership we have in this important field. And that's what we're trying to advocate for as we work with the administration.
+
+
+Operator  [Operator]
+Next question is from Chris Schott from JPMorgan.
+
+
+Christopher Schott  [Analysts]
+I just had one question and just a quick follow-up on an earlier one. On the question, can you just talk about GARDASIL and the potential to move to a single dose in the U.S.? I'd just be interested in your thoughts on the potential for a CDC recommendation here and Merck's ability to potentially adjust price in such an outcome.
+My follow-up was just on the manufacturing and kind of longer-term tariff-mitigation efforts. Should we think about those efforts mostly focused on new products and pipeline? Or is there also an ability to address legacy products such as KEYTRUDA with those longer-term efforts?
+
+
+Dean Li  [Executives]
+Yes. Chris, thanks for the question. Let me address the GARDASIL reduced dosing. And I think you're specifically referring to ACIP and potential deliberations in relationship to reduced dosing. And I don't want to speculate what the ACIP may do. But I just want to emphasize that we are extremely confident in the safety and efficacy of the GARDASIL 9 and in the dosing regimen.
+And I would just emphasize, we have had clear, firm, consistent and recent guidance from the FDA on what would require for the licensure of a reduced dosing or a single dose. They are very clear on the high evidentiary standard. They point out to us that it must be efficacy (sic) [ efficacious ] against disease endpoints, not just infections. You must have data in males and females, recognizing that HPV-related head and neck in males is actually greater here in the United States than cervical cancer. They emphasize to us high statistical bar and they emphasize to us long-term durability of protection.
+The FDA is incredibly up-to-date and aware of the limitations of existing trials, and none meet the criteria for them to have a label change. So there appears to be a disparity between the stringent clinical requirements outlined by the FDA and some of the proposals that are in front of the ACIP. So what we are hopeful is that there will be a robust discussion and interrogation in a public setting in relationship to the clear disparity in the evidentiary standard set by us -- set by the FDA to us and the options that the ACIP is considering.
+Caroline, did you want to answer the other question?
+
+
+Caroline Litchfield  [Executives]
+Yes. So in terms of should the ACIP look towards any different type of dosing regimen, we stand firmly behind the value that GARDASIL brings in preventing certain HPV-related cancers. And we will be looking to ensure that, that cost effectiveness is understood as we appropriately price the vaccine.
+Did you want to touch then on the second question, Rob, which is the manufacturing and the longer term...
+
+
+Robert Davis  [Executives]
+Oh, yes. Sorry about that. I was enjoying your answer so much. I forgot the other question. Sorry about that. Now Chris, to your question about the manufacturing, it's really both. So clearly, we are very focused on new products, some of which we already have in the United States. Others, we're going to be moving to bring them to the United States. But we also were very focused on KEYTRUDA. As you probably can surmise, our biggest exposure is KEYTRUDA in the near term, but I feel very good that as we sit here today with -- as I mentioned, the fact that we have basically on-hand inventory in the United States to protect us through all of 2025. And then we've taken steps to be prepared both from a drug substance and a drug product as we move into 2026 and 2027. We're as well positioned as you could be through both the short-term actions on inventory as well as securing additional manufacturing in the United States, both through contract manufacturers, and then we are already underway to go to our own internal manufacturing.
+So we're as well positioned on KEYTRUDA as you can be. Obviously, we have to wait and see what the tariffs are. So I don't want to speak to the specific implications because it depends on the form they take. But I think we're positioned on both KEYTRUDA and the new products.
+
+
+Operator  [Operator]
+Next question is from James Shin from Deutsche Bank.
+
+
+James Shin  [Analysts]
+One for Rob. Rob, you've already disclosed a healthy amount of U.S. investments. But is there a need for more or room for more U.S. CapEx? And is it pending U.S. tax reform? And then one for Dean. Has the recent PD-1 VEGF datasets made you and your team want to accelerate or maybe allocate more resources to LM-299's development?
+
+
+Robert Davis  [Executives]
+Yes. Thanks for the question. So as we sit here today, as we mentioned, between the $12 billion we've done plus the $9 billion-plus we have underway. So we're going to be looking at north of $21 billion since 2018 as we look over the next few years. I actually think over time, you're going to see that grow as we continue to -- because that's based on the firm decisions we've already made. So that doesn't include an expectation. That's actually firm decisions.
+And as we think about bringing back manufacturing, I think you actually will see that number grow. The tax environment, obviously, we have to think holistically about all of this, but it is not going to affect how we think about investment. We think we can both do the necessary investments and manage our tax position quite effectively.
+
+
+Dean Li  [Executives]
+Yes. In relationship to the PD-1 VEGF question, I think you're referring to the -- I think it's the HARMONY 2 and 6 sort of readout that's come up. One of the things that's actually very consistent that I think the field is looking for is whether any advancement in relationship to the PFS over a single PD-1 can be translated to an OS and whether something that's in a China-only study can be done globally.
+Having said that, we embrace the advancements in the field. And we think KEYTRUDA sets a high bar with 41 indications across 18 tumor types. As you note, we have our own PD-1 VEGF, and we will gate our decisions in relationship to this at our data and other data evolves. But as you point out, we believe strongly that we are the advantaged owner given clinical expertise, extensive data generated and that in some sense, we have both the KEYTRUDA and a LEAP playbook, and we would intend to move with speed and vigor.
+Most importantly or equally important is should that PD-1 VEGF show that OS benefit, we also have an advantage of having unique portfolio agents that have clear potential for combined ability. So we are looking at our own data and the data in the field as we make those decisions.
+
+
+Robert Davis  [Executives]
+And maybe I would just want to add that should the bispecific be successful, I think you can expect that the impact to us because of -- this is likely to come, frankly, probably post the LOE of KEYTRUDA is pretty small. If you look across non-small cell lung cancer, where potentially the competitor could be coming. By that time, we'll only be mid-teens of our business, max. And remember, we are very hard -- working very diligently to convert people to the earlier-stage setting. And as we do so, they don't have an indication there. So from that perspective, the risk to us is minimal. But I think what I'd really want to emphasize, the opportunity is significant. And I think that's the point that Dean's trying to make. I think this could be, frankly, a really good thing for Merck long term.
+
+
+Operator  [Operator]
+Next question is from Steve Scala from TD Cowen.
+
+
+Steve Scala  [Analysts]
+Regarding GARDASIL growth slowdown globally, which seems to be a new disclosure, what new information emerged since Q1 when the company spoke to growth in each and every market? Is there still a line of sight to $11 billion, which was repeated on the Q4 call? And is 2025 still the trough year?
+
+
+Caroline Litchfield  [Executives]
+Thank you, Steve, for the question. First, the information that we're providing with regard to the opportunities to grow GARDASIL outside of China is not new. What we are highlighting, however, is a very effective execution by our colleagues in Japan of a catch-up cohort program that ends on the 31st of March of this year. And as a result of that ending, we expect ourselves in Japan to reflect the primary age cohort and, therefore, be reduced from quarter 2 onwards to what we have achieved over the prior quarters.
+As we look to GARDASIL globally this year, we expect China to be a headwind. We had said previously with regards to China, we will assess do we or do we not ship further products this year at the midpoint of this year. And we will do that assessment at the midpoint of this year, however, expect given the current dynamics in China, that is -- it is not so likely that we will ship further product in China. And that is actually an outcome that is incorporated into the midpoint of our guidance.
+All of that said, we do expect strong growth, excluding China, strong double digit we've achieved in the first quarter. And we expect continued strong growth as we go through the remainder of the year.
+In terms of the longer-term guidance, we did withdraw the $11 billion target last quarter, given the fact that China was an important part of the achievement of that $11 billion. Our company remains focused and on the ground in China to maximize the opportunity and maximize the launch in males, while we're working across the entirety of the world to protect many more lives from HPV-related cancers and drive growth for our business as we move forward.
+
+
+Operator  [Operator]
+Next question is from Alex Hammond from Wolfe Research.
+
+
+Alexandria Hammond  [Analysts]
+So during the ACIP meeting, you spoke about adjusting the wording for the HPV recommendation from 11 to 12 years old, but eligible at 9 to recommendation to 9 to 12. That should be voted on at the June meeting. How important do you see this wording update to an impact to U.S. sales? And from your doctor checks, do you see the broader recommendation being a material tailwind?
+
+
+Robert Davis  [Executives]
+Yes. Thanks for the question. As we look at what is the potential recommendation that could come in June, to your point, it appears that we could see them extend the recommendation to 9 years and old and up. We actually view that as a very important and positive development because of the fact that, one, as you look at adolescents who are being vaccinated in the early teens, to the extent that they will need multiple vaccinations, it's harder to get the fulfillment of the full vaccination schedule. If you started 9, we're more apt to see people complete the schedule, which is a positive. And then in addition, at 9 years old, you're at a time when there's not a lot of other vaccines happening -- vaccinations happening, and so there can be a focus on the GARDASIL vaccination at a time when it's, I think, easier for the family to prioritize and focus on it. So we do see it as a positive.
+I wouldn't view it as a big upside to the U.S. We've kind of always viewed that this was an evolution that will be important. And in fact, while this will be an important recommendation, it's already approved in that age cohort today. And in fact, you do see vaccinations happening. This recommendation just reinforces it because it's coming from the ACIP.
+
+
+Operator  [Operator]
+Next question from Umer Raffat from Evercore.
+
+
+Umer Raffat  [Analysts]
+I have a simple one, perhaps, if I may. Rob, are you intending to keep the IP for KEYTRUDA subcu here in the U.S. rather than Ireland as we head towards a potential approval?
+
+
+Robert Davis  [Executives]
+Yes. Actually, I don't think we've ever disclosed whether the IP is for subcu. And I don't want to get into a discussion of that. So I think I would prefer not to speak to that just for proprietary reasons.
+
+
+Operator  [Operator]
+Next question is from Akash Tewari from Jefferies.
+
+
+Akash Tewari  [Analysts]
+So a few admittedly unfair questions on tariffs. One, is a 25% tariff a reasonable expectation? Or do you expect the headline number to be higher? What is your confidence that if they do get announced, they'll at least be administered thoughtfully, whether it's gradual implementation or expedited regulatory process to move manufacturing to the U.S. quickly? And then finally, let's say, they end up being 25%, could the impact to Merck with reasonable mitigation efforts be in the kind of single-digit range on earnings on a percent basis?
+
+
+Robert Davis  [Executives]
+Yes. No, I appreciate the question. I don't want to speculate on what the tariffs could be because we need to see what the language is from the administration. I think the important point is, as I previously stated, we have taken the steps both in terms of inventory management for the short term as well as starting to reposition manufacturing for the medium and long term. But I think we are well positioned under most scenarios that they could come through. But the specifics you're looking for, I don't want to speculate because we need to see what it is.
+
+
+Operator  [Operator]
+Next question is from Mohit Bansal from Wells Fargo.
+
+
+Mohit Bansal  [Analysts]
+I have a question regarding the BD strategy. What we have seen lately is that you have acquired a bunch of assets from China. I mean I completely understand the cost effectiveness of them. But at the same time, it doesn't seem like they are in an innovative area, right? I mean I think you are the first mover here. The TROP2, GLP-1, Lp(a) and even VEGF PD-1. So like why doesn't it feel like more like a company like Merck is chasing the frontrunners here versus trying to be something -- do something innovative? Would love to understand the thought process there.
+
+
+Dean Li  [Executives]
+Yes. I'll take that question first. So first of all, I would remind us that I would sit there and I would consider the Acceleron purchase and WINREVAIR as bringing a front-leading molecule. I would also sit there and consider that the move to TL1A in tulisokibart would be that as well. And I would reemphasize my excitement of our acquisition of EyeBio in relationship to wet AMD and diabetic macular edema.
+I should also emphasize that when you talk about certain compounds, let's say, an Lp(a) or GLP, I would remind you also that we believe that we have an ambition to have the first and best oral PCSK9. It will be first to market. We think it will be the most effective. We're very confident in the cardiovascular outcomes, but we're also very confident in its ability to combine with certain agents.
+So when you look at some of the BD, I might not look at it as in isolation of the rest of the pipeline. I think that there are certain combinations that would be incredibly innovative that would require a combination, but some of the innovation of the base of that innovation comes from our company, and it's a coordinated one pipeline, external, internal pipeline fusing into a final product.
+Rob, did you want to add anything?
+
+
+Robert Davis  [Executives]
+Yes. Maybe just to reinforce, I think, a couple of points. We've been, I think, very balanced. Dean gave some great examples of where we are first-in-class and, frankly, best-in-class. We're also looking at other strategies where we might not be first, but we still think we can be best-in-class. So I think you have to look at the total of the portfolio and not just the most recent 3 deals we've done. And I actually think you'll see us continue to do a range of opportunities which cover the full spectrum. Because as we look at it, it's about how do we position ourselves for growth.
+And in some cases, in some of these therapeutic areas, we think there's still unmet need. I mean Dean highlighted a little bit, but obesity, there's an opportunity for a next wave. Depending on what comes with the PD-1 VEGF, that could be a next wave where, frankly, when you combine it with other agents we have, we could lead as well. So I don't think it's a fair characterization, and I would urge you to think more in towards -- in terms of the total portfolio.
+
+
+Peter Dannenbaum  [Executives]
+Great. Thank you very much, Mohit. I think that puts us past the hour. So very much appreciate your time and attention this morning. And if you have any additional questions, please reach out to IR. Thank you all very much.
+
+
+Robert Davis  [Executives]
+Thank you.
+
+
+Operator  [Operator]
+That concludes today's conference. Thank you for participating. You may disconnect at this time.
