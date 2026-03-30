@@ -82,11 +82,6 @@ def main():
         help="Skip steps 5-6 (model training/evaluation). "
              "Assumes a trained model exists in models/uncertainty_finbert/."
     )
-    parser.add_argument(
-        "--fast-predict", action="store_true",
-        help="Use GPU-optimized bulk inference script for step 7 "
-             "(predict_uncertainty_fast.py instead of predict_uncertainty.py)."
-    )
     args = parser.parse_args()
 
     if args.only:
@@ -97,19 +92,11 @@ def main():
     if args.skip_training:
         step_nums -= {5, 6}
 
-    steps_to_run = list(STEPS)
-    if args.fast_predict:
-        steps_to_run = [
-            (n, l, "src.modeling.predict_uncertainty_fast" if n == 7 else m)
-            for n, l, m in steps_to_run
-        ]
-        log.info("Using GPU-optimized prediction script (predict_uncertainty_fast).")
-
     log.info("Pipeline starting. Steps to run: %s", sorted(step_nums))
     total_t0 = time.time()
     failed = []
 
-    for num, label, module_path in steps_to_run:
+    for num, label, module_path in STEPS:
         if num not in step_nums:
             log.info("Skipping step %d: %s", num, label)
             continue

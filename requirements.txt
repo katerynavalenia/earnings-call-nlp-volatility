@@ -27,6 +27,6 @@ rapidfuzz>=3.0.0
 # Utilities
 tqdm>=4.65.0
 
-# Scraper (already installed via koyfin_scr)
+# Scraper (install separately via scrapper/requirements.txt)
 # selenium>=4.15.0
 # webdriver-manager>=4.0.0

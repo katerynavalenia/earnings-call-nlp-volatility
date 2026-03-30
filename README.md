@@ -12,8 +12,8 @@
 ├── requirements.txt
 │
 ├── data/
-│   ├── raw/                         # Loughran-McDonald dictionary (auto-downloaded)
 │   ├── processed/                   # Parquet files produced by the pipeline
+│   ├── test_transcripts/            # 27 sample transcripts for quick testing
 │   ├── market/                      # Professor's daily market data CSVs
 │   ├── marketCap/                   # Professor's market-cap CSVs
 │   ├── earning/                     # Professor's earnings-surprise CSVs
@@ -23,6 +23,7 @@
 │   ├── koyfin_scraper.py            # Selenium-based transcript scraper
 │   ├── run_scraper.py               # Multi-worker scraper entry point
 │   ├── utils.py                     # Helper functions
+│   ├── .env.example                 # Required credentials template
 │   └── output/{year}/               # ~100K scraped transcripts (see Data Access)
 │
 ├── src/
@@ -119,7 +120,7 @@ python run_pipeline.py --only 10 11 12   # re-run regressions + plots only
 ## Notes
 
 - **GPU recommended** for step 5 (FinBERT training). On CPU, expect ~2-3 hours. If using Google Colab, upload `data/processed/train.parquet`, `val.parquet`, `test.parquet` and run `train_uncertainty_model.py` there, then copy the `models/uncertainty_finbert/` folder back.
-- The Loughran-McDonald dictionary is auto-downloaded on first run (step 3).
+- The Loughran-McDonald Uncertainty word list is hardcoded in `lexicon_labeler.py` (no external download required).
 - All intermediate data is stored as Parquet in `data/processed/` for fast I/O.
 
 ---
