@@ -34,3 +34,4 @@ Thumbs.db
 
 # Archives / backups
 project_archive/
+*.7z
