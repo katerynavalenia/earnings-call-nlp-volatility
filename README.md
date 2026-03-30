@@ -65,12 +65,12 @@ pip install -r requirements.txt
 
 ### 2. Place input data
 
-| Data                   | Location                       | Source                                   |
-|------------------------|--------------------------------|------------------------------------------|
-| Earnings transcripts   | `scrapper/output/{year}/`      | See **Data Access** below (~100K files)  |
-| Daily market prices    | `data/market/`                 | Included in `cloud_upload.7z` release    |
-| Market capitalisation  | `data/marketCap/`              | Included in `cloud_upload.7z` release    |
-| Earnings surprises     | `data/earning/`                | Included in `cloud_upload.7z` release    |
+| Data                   | Location                       | Source                                        |
+|------------------------|--------------------------------|-----------------------------------------------|
+| Earnings transcripts   | `scrapper/output/{year}/`      | See **Data Access** below (~100K files)       |
+| Daily market prices    | `data/market/`                 | Included in `dataset_artifacts.7z` release    |
+| Market capitalisation  | `data/marketCap/`              | Included in `dataset_artifacts.7z` release    |
+| Earnings surprises     | `data/earning/`                | Included in `dataset_artifacts.7z` release    |
 
 ### 3. Run the full pipeline
 
