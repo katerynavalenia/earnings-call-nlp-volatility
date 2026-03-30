@@ -203,7 +203,6 @@ class TranscriptScraper:
         opts.add_argument("--no-sandbox")
         opts.add_argument("--disable-dev-shm-usage")
         opts.add_argument("--disable-gpu")
-        # skip loading images, we don't need them
         opts.add_experimental_option("prefs", {
             "profile.managed_default_content_settings.images": 2,
         })

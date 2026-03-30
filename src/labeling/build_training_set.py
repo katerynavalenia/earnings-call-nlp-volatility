@@ -41,7 +41,6 @@ def main():
         log.error("Scored sentences not found. Run lexicon_labeler.py first.")
         sys.exit(1)
 
-    # Read in chunks to avoid loading 38M+ rows at once.
     needed_cols = ["sentence", "label", "n_tokens", "transcript_id", "sector",
                    "event_date", "uncertainty_ratio"]
     pf = pq.ParquetFile(scored_path)
@@ -53,7 +52,6 @@ def main():
 
     for batch in pf.iter_batches(batch_size=BATCH, columns=needed_cols):
         chunk = batch.to_pandas()
-        # Filter by label and token length in one step
         h = chunk[(chunk["label"] == "high_uncertainty") & chunk["n_tokens"].between(5, 200)]
         l = chunk[(chunk["label"] == "low_uncertainty") & chunk["n_tokens"].between(5, 200)]
         if len(h) > 0:

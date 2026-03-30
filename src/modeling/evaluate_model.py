@@ -63,7 +63,7 @@ def main():
         log.error("Model not found at %s. Run train_uncertainty_model.py first.", model_dir)
         sys.exit(1)
 
-    # Load model
+    # Load model and test data
     device = "cuda" if torch.cuda.is_available() else "cpu"
     log.info("Loading model from %s (device: %s)", model_dir, device)
     tokenizer = AutoTokenizer.from_pretrained(model_dir)
@@ -71,14 +71,12 @@ def main():
     model.to(device)
     model.eval()
 
-    # Load test data
     test_df = pd.read_parquet(test_path)
     log.info("Test set: %d sentences", len(test_df))
 
     texts = test_df["sentence"].tolist()
     true_labels = test_df["binary_label"].values
 
-    # Predict in batches
     all_probs = []
     for i in tqdm(range(0, len(texts), BATCH_SIZE), desc="Predicting"):
         batch_texts = texts[i : i + BATCH_SIZE]
@@ -104,7 +102,6 @@ def main():
     log.info("\nClassification Report:\n%s", report)
     log.info("\nConfusion Matrix:\n%s", cm)
 
-    # Save metrics
     metrics_df = pd.DataFrame([{
         "accuracy": accuracy,
         "f1": f1,

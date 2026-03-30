@@ -1,25 +1,8 @@
 """
 Master pipeline orchestrator.
 
-Runs all steps in order:
-  1. Parse transcripts
-  2. Map tickers
-  3. Score sentences with lexicon
-  4. Build training set
-  5. Train FinBERT uncertainty model
-  6. Evaluate model
-  7. Predict uncertainty on all transcripts
-  8. Compute volatility
-  9. Build panel dataset
-  10. Run main regression
-  11. Run robustness checks
-  12. Generate visualizations
-
-Usage:
-  python run_pipeline.py                  # run all steps
-  python run_pipeline.py --from 7         # resume from step 7
-  python run_pipeline.py --only 1 3 7     # run specific steps
-  python run_pipeline.py --skip-training  # skip GPU-heavy steps 5-6
+Runs all 12 steps in sequence: parsing, labeling, training,
+prediction, volatility computation, regression, and visualization.
 """
 
 import argparse
@@ -36,7 +19,6 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# Ensure project root is on the path
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, PROJECT_ROOT)
 
@@ -107,7 +89,6 @@ def main():
     )
     args = parser.parse_args()
 
-    # Determine which steps to run
     if args.only:
         step_nums = set(args.only)
     else:
@@ -116,7 +97,6 @@ def main():
     if args.skip_training:
         step_nums -= {5, 6}
 
-    # Swap prediction module if --fast-predict is set
     steps_to_run = list(STEPS)
     if args.fast_predict:
         steps_to_run = [

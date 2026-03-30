@@ -113,11 +113,9 @@ def compute_volatility_for_event(market_df, event_date, window_start, window_end
 
     event_dt = pd.Timestamp(event_date)
 
-    # Find the event date position in trading calendar
     dates = market_df["date"].values
     event_idx = np.searchsorted(dates, np.datetime64(event_dt))
 
-    # Calculate actual indices
     start_idx = event_idx + window_start
     end_idx = event_idx + window_end + 1  # inclusive
 

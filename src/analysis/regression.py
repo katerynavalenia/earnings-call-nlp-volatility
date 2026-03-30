@@ -53,21 +53,17 @@ def run_ols_with_fe(panel, dep_var, indep_vars, fe_vars, cluster_var=None):
     Run OLS regression with fixed effects (absorbed as dummies).
     Returns the fitted model.
     """
-    # Build the design matrix
     df = panel.dropna(subset=[dep_var] + indep_vars)
 
     y = df[dep_var]
     X = df[indep_vars].copy()
 
-    # Add fixed effects as dummies
     for fe_var in fe_vars:
         if fe_var in df.columns:
             dummies = pd.get_dummies(df[fe_var], prefix=fe_var, drop_first=True)
             X = pd.concat([X, dummies], axis=1)
 
     X = sm.add_constant(X)
-
-    # Ensure numeric types
     X = X.astype(float)
 
     if cluster_var and cluster_var in df.columns:
@@ -110,7 +106,7 @@ def main():
     panel["uncertainty_score_pct"] = panel["uncertainty_score"] * 100
     panel["uncertainty_share_pct"] = panel["uncertainty_share"] * 100
 
-    # Also express volatility in basis points for interpretability
+    # Convert to basis points for interpretable coefficients
     panel["post_call_vol_bps"] = panel["post_call_vol"] * 10000
     panel["abnormal_vol_bps"] = panel["abnormal_vol"] * 10000
 

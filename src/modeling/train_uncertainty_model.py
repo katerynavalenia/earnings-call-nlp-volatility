@@ -80,7 +80,6 @@ def main():
     model_dir = os.path.join(project_root, "models", "uncertainty_finbert")
     os.makedirs(model_dir, exist_ok=True)
 
-    # Load data
     train_df = pd.read_parquet(os.path.join(data_dir, "train.parquet"))
     val_df = pd.read_parquet(os.path.join(data_dir, "val.parquet"))
     log.info("Train: %d, Val: %d", len(train_df), len(val_df))
@@ -90,7 +89,6 @@ def main():
     val_texts = val_df["sentence"].tolist()
     val_labels = val_df["binary_label"].tolist()
 
-    # Load tokenizer and model
     log.info("Loading %s", MODEL_NAME)
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSequenceClassification.from_pretrained(
@@ -99,11 +97,9 @@ def main():
         ignore_mismatched_sizes=True,
     )
 
-    # Create datasets
     train_dataset = SentenceDataset(train_texts, train_labels, tokenizer)
     val_dataset = SentenceDataset(val_texts, val_labels, tokenizer)
 
-    # Determine device
     device = "cuda" if torch.cuda.is_available() else "cpu"
     log.info("Training on: %s", device)
 
@@ -143,7 +139,6 @@ def main():
     log.info("Starting training...")
     trainer.train()
 
-    # Save best model
     trainer.save_model(model_dir)
     tokenizer.save_pretrained(model_dir)
     log.info("Model saved to %s", model_dir)

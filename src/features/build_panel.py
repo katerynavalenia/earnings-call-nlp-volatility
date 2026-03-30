@@ -231,7 +231,6 @@ def main():
     panel = panel.dropna(subset=key_cols)
     log.info("Dropped %d rows with missing key variables", before - len(panel))
 
-    # Save
     panel.to_parquet(output_path, index=False, engine="pyarrow")
     log.info("Panel dataset saved to %s (%d rows)", output_path, len(panel))
 

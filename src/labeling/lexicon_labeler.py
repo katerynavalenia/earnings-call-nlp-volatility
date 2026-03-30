@@ -33,9 +33,7 @@ LM_CSV_URL = (
     "Loughran-McDonald_MasterDictionary_1993-2023.csv"
 )
 
-# Manually curated uncertainty word list from Loughran-McDonald (2011).
-# This is the established word list used in financial text analysis research.
-# Source: https://sraf.nd.edu/loughranmcdonald-master-dictionary/
+# Loughran-McDonald (2011) Uncertainty word list
 UNCERTAINTY_WORDS = {
     "approximate", "approximately", "approximation", "assumption",
     "assumptions", "believe", "believed", "believes", "calibrate",
@@ -120,8 +118,6 @@ def split_into_sentences(text):
 
 
 def main():
-    # Import the transcript parser so we can read raw files directly
-    # instead of loading the giant 4.3GB parquet into memory.
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.abspath(os.path.join(script_dir, "..", ".."))
     sys.path.insert(0, project_root)
@@ -149,7 +145,6 @@ def main():
         log.error("No transcript files found.")
         sys.exit(1)
 
-    # Process each file directly — uses ~0 memory per file.
     all_rows = []
     errors = 0
     FLUSH_INTERVAL = 10000  # log progress every N files
@@ -187,7 +182,6 @@ def main():
     del all_rows
     log.info("Total sentences scored: %d", len(sentences_df))
 
-    # Compute quartile thresholds for labeling
     nonzero = sentences_df[sentences_df["uncertainty_ratio"] > 0]["uncertainty_ratio"]
     if len(nonzero) > 0:
         q75 = nonzero.quantile(0.75)

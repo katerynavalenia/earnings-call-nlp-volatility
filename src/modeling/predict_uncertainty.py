@@ -114,7 +114,6 @@ def main():
         log.error("Model not found. Run train_uncertainty_model.py first.")
         sys.exit(1)
 
-    # Load model
     device = "cuda" if torch.cuda.is_available() else "cpu"
     log.info("Loading model (device: %s)", device)
     tokenizer = AutoTokenizer.from_pretrained(model_dir)
