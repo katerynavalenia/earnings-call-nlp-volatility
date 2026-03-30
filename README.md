@@ -129,12 +129,12 @@ python run_pipeline.py --only 10 11 12   # re-run regressions + plots only
 
 | Asset | Size | Location | How to obtain |
 |-------|------|----------|---------------|
-| Dataset archive | ~600 MB | `scrapper/output/`, `data/market/`, `data/marketCap/`, `data/earning/` | Download `cloud_upload.7z` from [Releases](../../releases) and extract into the project root |
+| Dataset archive | ~1.4 GB | `scrapper/output/`, `data/market/`, `data/marketCap/`, `data/earning/` | Download `dataset_artifacts.7z` from [Releases](../../releases) and extract into the project root |
 | Fine-tuned FinBERT model | ~400 MB | `models/uncertainty_finbert/` | Included via Git LFS (auto-downloaded on `git clone`) |
 | Sample transcripts (27) | ~1.2 MB | `data/test_transcripts/` | Included in repo |
 
 > **Note:** After cloning, run `git lfs pull` if the model weights were not downloaded automatically.  
-> Download `cloud_upload.7z` from the [Releases](../../releases) page, then extract it into the project root:
+> Download `dataset_artifacts.7z` from the [Releases](../../releases) page, then extract it into the project root:
 > ```bash
-> 7z x cloud_upload.7z
+> 7z x dataset_artifacts.7z
 > ```
