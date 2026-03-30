@@ -68,9 +68,9 @@ pip install -r requirements.txt
 | Data                   | Location                       | Source                                   |
 |------------------------|--------------------------------|------------------------------------------|
 | Earnings transcripts   | `scrapper/output/{year}/`      | See **Data Access** below (~100K files)  |
-| Daily market prices    | `data/market/`                 | Professor's `market.zip` → extract here  |
-| Market capitalisation  | `data/marketCap/`              | Professor's `marketCap.zip`              |
-| Earnings surprises     | `data/earning/`                | Professor's `earning.zip`                |
+| Daily market prices    | `data/market/`                 | Included in `cloud_upload.7z` release    |
+| Market capitalisation  | `data/marketCap/`              | Included in `cloud_upload.7z` release    |
+| Earnings surprises     | `data/earning/`                | Included in `cloud_upload.7z` release    |
 
 ### 3. Run the full pipeline
 
@@ -129,10 +129,12 @@ python run_pipeline.py --only 10 11 12   # re-run regressions + plots only
 
 | Asset | Size | Location | How to obtain |
 |-------|------|----------|---------------|
-| Scraped transcripts (~100K) | ~5.5 GB | `scrapper/output/{year}/` | [Google Drive](<!-- INSERT DRIVE LINK -->) |
+| Dataset archive | ~600 MB | `scrapper/output/`, `data/market/`, `data/marketCap/`, `data/earning/` | Download `cloud_upload.7z` from [Releases](../../releases) and extract into the project root |
 | Fine-tuned FinBERT model | ~400 MB | `models/uncertainty_finbert/` | Included via Git LFS (auto-downloaded on `git clone`) |
 | Sample transcripts (27) | ~1.2 MB | `data/test_transcripts/` | Included in repo |
-| Market data (OHLCV, MarketCap, Earnings) | ~1.6 GB | `data/market/`, `data/marketCap/`, `data/earning/` | Professor-provided zips → extract into respective folders |
 
 > **Note:** After cloning, run `git lfs pull` if the model weights were not downloaded automatically.  
-> Replace `<!-- INSERT DRIVE LINK -->` with the actual Google Drive sharing link after uploading the transcripts.
+> Download `cloud_upload.7z` from the [Releases](../../releases) page, then extract it into the project root:
+> ```bash
+> 7z x cloud_upload.7z
+> ```
