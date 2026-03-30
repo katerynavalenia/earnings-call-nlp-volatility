@@ -1,11 +1,8 @@
 """
 Koyfin transcript downloader.
 
-Grabs earnings call transcripts through Koyfin's internal API endpoints
-instead of trying to interact with the DOM (way faster).
-
-Selenium is only used for the initial login to grab the JWT,
-then everything runs as JS fetch() calls inside that browser session.
+Uses Selenium for login (JWT extraction), then fetches transcripts
+via Koyfin's internal API as JS fetch() calls.
 """
 
 import os

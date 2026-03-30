@@ -1,13 +1,5 @@
 """
-Robustness checks for the main regression analysis.
-
-Tests:
-1. Alternative volatility windows: [+1,+3], [+1,+10]
-2. Lexicon-only uncertainty scores (no model)
-3. Prepared remarks vs. Q&A section uncertainty
-4. Subsample: large vs. small firms (by market cap median)
-5. Subsample: by sector
-6. Winsorization sensitivity
+Robustness checks: alternative windows, subsamples, and specifications.
 
 Reads: data/processed/panel_dataset.parquet
 Outputs: output/tables/robustness_results.csv

@@ -1,8 +1,8 @@
 """
-Evaluate the fine-tuned uncertainty classification model on the test set.
+Evaluate the fine-tuned uncertainty model on the held-out test set.
 
 Reads: data/processed/test.parquet, models/uncertainty_finbert/
-Outputs: output/tables/model_evaluation.csv, printed metrics + examples
+Outputs: output/tables/model_evaluation.csv
 """
 
 import os

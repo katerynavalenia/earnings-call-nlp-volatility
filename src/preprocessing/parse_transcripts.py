@@ -1,9 +1,8 @@
 """
-Parse raw Koyfin transcript .txt files into a structured parquet dataset.
+Parse raw earnings call transcript .txt files into a structured parquet dataset.
 
-Reads all .txt files from koyfin_scr/output/{year}/ folders, extracts
-metadata and speaker blocks, separates prepared remarks from Q&A,
-and saves the result as data/processed/transcripts_parsed.parquet.
+Reads: scrapper/output/{year}/*.txt
+Outputs: data/processed/transcripts_parsed.parquet
 """
 
 import argparse
@@ -217,7 +216,7 @@ def main():
     )
     parser.add_argument(
         "--transcript-dir", type=str, default="",
-        help="Custom transcript directory (overrides default koyfin_scr/output).",
+        help="Custom transcript directory (overrides default scrapper/output).",
     )
     args = parser.parse_args()
 
@@ -228,7 +227,7 @@ def main():
     if args.transcript_dir:
         transcript_dir = os.path.abspath(args.transcript_dir)
     else:
-        transcript_dir = os.path.join(project_root, "koyfin_scr", "output")
+        transcript_dir = os.path.join(project_root, "scrapper", "output")
     output_path = os.path.join(project_root, "data", "processed", "transcripts_parsed.parquet")
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

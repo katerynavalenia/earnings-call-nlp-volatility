@@ -1,21 +1,17 @@
 """
-Produces all visualizations for the project report and presentation.
+Generate all figures for the report.
 
 Figures:
-  1. Distribution of uncertainty scores across transcripts
-  2. Uncertainty scores over time (quarterly average)
-  3. Scatter plot: uncertainty score vs. post-call volatility
-  4. Sector-level average uncertainty bar chart
-  5. Model performance: ROC curve
-  6. Coefficient forest plot from robustness checks
+  1. Uncertainty score distribution
+  2. Uncertainty over time (quarterly)
+  3. Scatter: uncertainty vs. post-call volatility
+  4. Sector-level uncertainty
+  5. Correlation heatmap
+  6. Robustness coefficient forest plot
 
-Reads:
-  data/processed/transcript_scores.parquet
-  data/processed/panel_dataset.parquet
-  output/tables/robustness_results.csv
-
-Outputs:
-  output/figures/*.png
+Reads: data/processed/transcript_scores.parquet, panel_dataset.parquet,
+       output/tables/robustness_results.csv
+Outputs: output/figures/*.png
 """
 
 import os

@@ -1,12 +1,8 @@
 """
-Score sentences in earnings call transcripts using the Loughran-McDonald
-Uncertainty word list.
+Score sentences using the Loughran-McDonald Uncertainty word list.
 
-Downloads the LM Master Dictionary from SRAF (Notre Dame) if not already
-present, extracts the Uncertainty word list, and labels each sentence
-by the fraction of uncertainty words it contains.
-
-Output: data/processed/sentences_scored.parquet
+Reads: scrapper/output/{year}/*.txt (via parse_single_file)
+Outputs: data/processed/sentences_scored.parquet
 """
 
 import os
@@ -23,15 +19,6 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S",
 )
 log = logging.getLogger(__name__)
-
-LM_DICT_URL = (
-    "https://sraf.nd.edu/loughranmcdonald-master-dictionary/"
-)
-# The actual CSV download link for the master dictionary
-LM_CSV_URL = (
-    "https://sraf.nd.edu/wp-content/uploads/2024/06/"
-    "Loughran-McDonald_MasterDictionary_1993-2023.csv"
-)
 
 # Loughran-McDonald (2011) Uncertainty word list
 UNCERTAINTY_WORDS = {
@@ -127,7 +114,7 @@ def main():
         project_root, "data", "processed", "sentences_scored.parquet"
     )
 
-    transcript_dir = os.path.join(project_root, "koyfin_scr", "output")
+    transcript_dir = os.path.join(project_root, "scrapper", "output")
     if not os.path.exists(transcript_dir):
         log.error("Transcript directory not found: %s", transcript_dir)
         sys.exit(1)

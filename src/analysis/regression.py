@@ -1,14 +1,13 @@
 """
-Run the main panel regression: does management uncertainty predict
-post-call stock volatility?
+Panel regression: management uncertainty → post-call volatility.
 
-Model:
-  PostCallVol_it = β1·UncertaintyScore_it + β2·PreCallVol_it
+Specification:
+  PostCallVol_it = β1·Uncertainty_it + β2·PreCallVol_it
                  + β3·log(MarketCap)_it + β4·EarningsSurprise_it
                  + Sector_FE + YearQuarter_FE + ε_it
 
 Reads: data/processed/panel_dataset.parquet
-Outputs: output/tables/regression_results.csv, printed summary
+Outputs: output/tables/regression_results.csv
 """
 
 import os

@@ -1,9 +1,8 @@
 """
-Map company names from transcripts to ticker symbols.
+Map company names from transcripts to ticker symbols via fuzzy matching.
 
-Uses the professor's market data filenames (each named by ticker) combined
-with Yahoo Finance ticker-to-company-name data and fuzzy string matching.
-Outputs data/processed/ticker_map.csv.
+Reads: data/processed/transcripts_parsed.parquet, data/market/ filenames
+Outputs: data/processed/ticker_map.csv
 """
 
 import os

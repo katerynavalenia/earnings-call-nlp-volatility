@@ -1,9 +1,6 @@
 """
 Score all transcripts with the fine-tuned uncertainty model.
 
-For each transcript, splits management text into sentences, runs them
-through the model, and aggregates into transcript-level uncertainty scores.
-
 Reads: data/processed/transcripts_parsed.parquet, models/uncertainty_finbert/
 Outputs: data/processed/transcript_scores.parquet
 """

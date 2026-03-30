@@ -1,9 +1,5 @@
 """
-Runner for the Koyfin transcript scraper.
-
-Can run as a single process or split the work across multiple browsers
-processing different months in parallel.
-
+Scraper entry point with optional multi-worker parallelization.
 """
 
 import os
